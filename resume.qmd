@@ -1,89 +1,48 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: "Jacob Holst"
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+Computer Scientist, Data Scientist, Mathematician
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+<a href="https://automatic-meme-4gwl794.pages.github.io/resume.html">My Website</a>
 </div>
 
 
-## Currently
-
-Standing on the shoulders of giants
-
 ### Specialized in
 
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
+Python, C#, Machine Learning
 
 
 ### Research interests
 
-Cooling, power series, optics, alchemy, planetary motions, apples.
+AI Models, Rust, Java
 
 
 ## Education
 
-`1654-1660`
-__The King's School, Grantham.__
+`2022-2024`
+__BYU-Idaho__
 
-`June 1661 - now`
-__Trinity College, Cambridge__
-
-- Sizar
-
-`1667 - death`
-__Trinity College, Cambridge__
-
-- Fellow
-
-
-
-## Awards
-
-`2012`
-President, *Royal Society*, London, UK
-
-Associate, *French Academy of Science*, Paris, France
-
-
-
-## Publications
-
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
-
-### Journals
-
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
-
-`1669`
-Lectiones opticæ.
-
-etc. etc. etc.
-
-### Patents
-
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
+Bachelor's of Computer Science
 
 
 ## Occupation
 
-`1600`
-__Royal Mint__, London
+`2022-2024`
+__Shift Lead__, Walgreens Co.
 
-- Warden
-- Minted coins
+- Evaluated best solutions using a set of guiding principles and logical sense
+- Optimized placement of product for purchase
+- Resolved conflicts for customer satisfaction
+- Trained employees to use best practices in customer service, product availability, and photo counter processes
 
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
+`2019`
+__Data Entry__, North Park Transportation
 
-
+- Transferred data from shipping bills to a digital format
+- Learned area information to optimize routing and package preparation
 
 <!-- ### Footer
 
-Last updated: May 2013 -->
+Last updated: May 2024 -->
